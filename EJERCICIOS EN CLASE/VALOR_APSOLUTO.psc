@@ -1,0 +1,8 @@
+Algoritmo VALOR_APSOLUTO
+	Definir VALOR COMO REAL;
+	ESCRIBIR "INGRESA LA SIFRA";
+	LEER VALOR;
+	Escribir "VALOR APSOLUTO ", ABS(VALOR);
+	
+	
+FinAlgoritmo
